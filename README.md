@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jammyno1
-- 👀 I’m interested in develope, design, discover
+- 👀 I’m interested to develope, design, discover
 - 🌱 I’m currently learning java and reactJS
 - 📫 Reach me through my mail, id: mohamedjamal9101@gmail.com
 
